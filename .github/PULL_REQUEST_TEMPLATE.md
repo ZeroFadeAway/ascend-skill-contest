@@ -62,17 +62,7 @@ CANN / PyTorch / torch_npu
 
 ---
 
-## 题目2: 模型迁移（GPU → 昇腾 NPU）
-
-### Skill名称
-
-### Prompt
-
-### 测试结果（截图）
-
----
-
-## 题目3: 训练框架 Profiling 采集
+## 题目2: 训练框架 Profiling 采集
 
 ### Skill名称
 
@@ -83,4 +73,15 @@ VeRL / MindSpeed-LLM / MindSpeed-MM 等（选一个）
 
 ### 测试结果（截图）
 
+---
+
+## 题目3: 模型迁移（GPU → 昇腾 NPU）
+
+### Skill名称
+
+### Prompt
+
+### 测试结果（截图）
+
+---
 
