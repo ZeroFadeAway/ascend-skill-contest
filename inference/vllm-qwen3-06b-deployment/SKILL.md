@@ -51,7 +51,7 @@ python scripts/deploy.py --host 服务器IP --user 用户名 --password 密码 -
 ## 服务验证
 部署完成后，可通过以下命令测试：
 ```bash
-curl http://175.100.2.7:8000/v1/chat/completions \
+curl http://127.0.0.1:8000/v1/chat/completions \
   -H "Content-Type: application/json" \
   -H "Authorization: Bearer your-api-key" \
   -d '{"model": "/home/zxq/weight/Qwen3-0.6B", "messages": [{"role": "user", "content": "你好"}], "temperature": 0.7}'
