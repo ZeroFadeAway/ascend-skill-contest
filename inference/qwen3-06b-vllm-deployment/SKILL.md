@@ -1,4 +1,10 @@
-# Qwen3-0.6B vLLM部署技能
+---
+name: qwen3-06b-vllm-deployment
+description: 在昇腾NPU上使用vLLM部署 Qwen3-0.6B 大语言模型服务。在需要部署vLLM推理服务或在昇腾NPU上运行推理时使用。
+---
+
+# Skill: Qwen3-0.6B vLLM部署技能
+
 
 ## 功能描述
 使用vLLM框架在昇腾NPU服务器上部署Qwen3-0.6B模型，包含完整的部署流程和测试验证步骤。
